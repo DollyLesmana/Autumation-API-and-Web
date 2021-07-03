@@ -1,12 +1,6 @@
 # Autumation-API-and-Web
 #Readme
-1. Please answer the following questions in a separate document
-2. Push all your answers to your github account
-3. You have 3 days to finish this task.
-4. Send an email informing that you have finished the test along with github link to
-dwitya.amanda@bukalapak.com, kalyani@bukalapak.com, cc
-genta.wibowo@bukalapak.com, buddy.arifin@bukalapak.com,
-hadiyanto@bukalapak.com
+
 You are required to finish task no (1).
 You are also required to finish at least 1 of task no (2). It is a plus if you are able to finish
 both.
